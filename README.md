@@ -73,6 +73,8 @@ bun run preview
 ```
 
 ![Nuxt js blog page 2](https://github.com/user-attachments/assets/a0ac6d29-e2c5-430c-8892-bde97b0fb50b)
+![Nuxt js blog page 1](https://github.com/user-attachments/assets/69781827-fc90-4e46-8167-460fb64503c8)
+
 
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
